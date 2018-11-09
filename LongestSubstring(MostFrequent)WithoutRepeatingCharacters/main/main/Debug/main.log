@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\aelhosse\scratchpadcode\longestsubstringwithoutrepeatingcharacters\main\main\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\aelhosse\scratchpadcode\longestsubstringwithoutrepeatingcharacters\main\main\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  main.vcxproj -> C:\Users\aelhosse\scratchPadCode\LongestSubstringWithoutRepeatingCharacters\main\Debug\main.exe
+  main.vcxproj -> C:\Users\aelhosse\scratchPadCode\LongestSubstringWithoutRepeatingCharacters\main\Debug\main.pdb (Full PDB)
